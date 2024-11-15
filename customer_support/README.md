@@ -21,6 +21,7 @@ Where:
 
 > [!NOTE]
 > **Lower Perplexity:** The model predicts the sample more accurately.
+> 
 > **Higher Perplexity:** The model is less certain about its predictions.
 
 ### Perplexity Results
@@ -87,6 +88,7 @@ $$
 
 > [!NOTE]
 > **Higher BLEU Score:** Indicates closer similarity between the generated text and the reference text.
+> 
 > **Lower BLEU Score:** Suggests greater divergence from the reference.
 
 ### BLEU Score Results
