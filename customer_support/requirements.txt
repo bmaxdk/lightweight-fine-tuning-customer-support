@@ -1,0 +1,7 @@
+torch>=1.7.0
+transformers>=4.0.0
+datasets>=1.6.0
+peft>=0.3.0
+sacrebleu>=2.0.0
+matplotlib
+numpy
