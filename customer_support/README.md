@@ -17,7 +17,6 @@ $$
 $$
 
 Where:
-- $ e $ is the base of the natural logarithm.
 - $\text{Loss}$ is typically the cross-entropy loss computed during evaluation.
 
 > [!NOTE]
