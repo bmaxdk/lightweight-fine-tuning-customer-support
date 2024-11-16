@@ -30,6 +30,12 @@ The model showed consistent improvement during training.
 
 ---
 
+
+
+<div style="text-align:center">
+    <img src="training_and_validation_loss_plot.png" alt="Result">
+</div>
+
 ## Perplexity Evaluation
 
 Perplexity measures how well a model predicts a sample and is defined as:
